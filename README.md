@@ -21,6 +21,8 @@ You can read the full tutorial on how to build your Autonomous car on [our websi
 - ROS Melodic
 #### Structure
 - Any shape compatible with your case 
+<hr> 
+
 ### Installation 
 we used the Linorobot packages [here](https://linorobot.org/) and we thank the Linorobot team to build this package <br>
 these steps like prerequisites 
@@ -29,7 +31,7 @@ make sure you clone the repo from a melodic branch or any alternative branch men
 - Install ROS Melodic [follow these steps](http://wiki.ros.org/melodic/Installation/Ubuntu)
 - Install Arduino use Arduino in my Repo
 - Create workSpace [follow these steps](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
-- Install Kinect driver
+- Install Kinectv2 driver
 - finally use my workspace 
 ##### Install Arduino 
 copied files in from my Repo to the home directory or install Arduino from the official website and [follow these steps](http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup) to install libraries make sure you install the Rosserial library correctly you can compare it with the one in my files 
@@ -79,3 +81,9 @@ if you found any errors with catkin make, make sure you have installed the compa
 sudo apt install ros-melodic-yourpackage
 ```
 #### Finally follow these Tutorial [Linorobot](https://github.com/linorobot/linorobot/wiki) to understand more about How to build your autonmous car 
+<hr> 
+
+discover our website from URL: https://mostafasaleh1.github.io/graduation-project-website/
+
+# Thanks our Team
+<img src="https://github.com/0xDigimon/Intelligent-Mobile-Robot-IMR/blob/main/Photos/DSC_1875.JPG">
